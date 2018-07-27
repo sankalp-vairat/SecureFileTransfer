@@ -9,3 +9,4 @@ information is stored in database.
 Sequnce diagram provides an overview of the working of project.
 
 Secure transfer has been achieved using the uses of encryption algorithms (AES, RSA) and CRC.
+# Refer sequence diagram for more details.
